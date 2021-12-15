@@ -64,7 +64,7 @@ Check out the [contributing guide](https://github.com/devadvent/readme/blob/main
 
 In short:
 
--   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/XXXXXXX) using the participation link
+-   ✨ Create your repository by [acceping the assignment](https://classroom.github.com/a/gbsUXaaJ) using the participation link
 -   🧩 Solve the puzzle
 -   🐦 Add your Twitter handle to `twitter.js`
 -   🤖 Test your solution
@@ -73,7 +73,7 @@ In short:
 ## 🔗 Participation link
 
 In order to participate, you need to enter the following link and accept the assignment:
-[https://classroom.github.com/a/XXXXXXX](https://classroom.github.com/a/XXXXXXX)
+[https://classroom.github.com/a/gbsUXaaJ](https://classroom.github.com/a/gbsUXaaJ)
 
 ## 💻 Use this project
 
